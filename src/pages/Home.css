@@ -1,0 +1,80 @@
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+        url('/public/hero-banner.png') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Tajawal', sans-serif;
+    color: white;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.hero-subtitle {
+    font-size: 1.75rem;
+    color: #f8f9fa;
+}
+
+.hero-btn {
+    padding: 12px 30px;
+    font-weight: bold;
+    color: #8B1538 !important;
+    /* Font color */
+    background-color: #FFC107 !important;
+    /* Yellow background */
+    border: none;
+    font-size: 1.1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease;
+}
+
+.hero-btn:hover {
+    background-color: #e0ac05 !important;
+    color: white !important;
+}
+
+.text-main {
+    color: #8B1538;
+}
+
+.story-section {
+    background-color: #fdfdf7;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.story-section img {
+    border-radius: 12px;
+}
+
+.story-section .icon-box {
+    text-align: center;
+}
+.testimonials-section {
+  background-color: #fffdf5;
+  font-family: 'Tajawal', sans-serif;
+}   
+.testimonials-section h2 {
+  color: #8B1538;
+  font-weight: bold;
+}
+
+.testimonial-card {
+  background: white;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.testimonial-quote {
+  font-style: italic;
+  color: #8B1538;
+}
+
+.testimonial-card h5 {
+  color: #8B1538;
+}

@@ -1,0 +1,27 @@
+.recommended-card .price-badge {
+  background-color: #FFC107;
+  color: #8B1538;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.recommended-btn {
+  background-color: #8B1538 !important;
+  border: none !important;
+  color: white !important;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.recommended-btn:hover {
+  background-color: #e0ac05 !important;
+  color: white !important;
+}
+.rounded-top{
+  border-top-left-radius: 0.5rem !important;
+  border-top-right-radius: 0.5rem !important;
+  object-fit: cover;
+  height: 200px;  
+  width: 100%;
+}

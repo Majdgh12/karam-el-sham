@@ -1,0 +1,45 @@
+/* Hero banner */
+.menu-hero {
+  position: relative;
+  height: 40vh;
+  background: url(' /public/hero-banner-menu.png')
+    center center / cover no-repeat;
+  font-family: 'Tajawal', sans-serif;
+}
+
+.menu-hero .overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.menu-hero h1 {
+  position: relative;
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.menu-hero p {
+  position: relative;
+  font-size: 1.25rem;
+}
+
+/* Category buttons */
+.btn-outline-danger {
+  color: #8b1538;
+  border-color: #8b1538;
+}
+
+.btn-outline-danger:hover {
+  background-color: #8b1538;
+  color: #fff;
+  border-color: #8b1538;
+}
+
+/* Active category */
+.btn-danger {
+  background-color: #8b1538;
+  border-color: #8b1538;
+}
+
+/* Grid spacing is handled by Bootstrap’s g-4 */

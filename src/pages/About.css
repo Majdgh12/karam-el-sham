@@ -1,0 +1,33 @@
+.hero-banner {
+    background-image: url('/public/hero-banner-menu.png');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    position: relative;
+    padding: 2rem;
+}
+
+.hero-banner::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    /* dark overlay */
+}
+
+.hero-banner>div {
+    position: relative;
+    z-index: 2;
+}
+.about-section h3{
+    font-size: 60px;
+}   
+
+.about-section p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
