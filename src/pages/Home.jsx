@@ -37,7 +37,8 @@ const Home = () => {
                     <h1 className="hero-title mb-3">كرم الشام</h1>
                     <h4 className="hero-subtitle mb-2">طعم دمشق الأصيل في قلب مصر</h4>
                     <p className="hero-desc mb-4 text-light">Authentic Syrian Taste in the Heart of Egypt</p>
-                    <Button variant="warning" className="hero-btn">
+                    <Button variant="warning" className="hero-btn"
+                        href="/menu">
                         <ArrowLeft className="ms-2" />
                         شاهد القائمة
                     </Button>
