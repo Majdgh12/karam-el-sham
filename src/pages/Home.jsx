@@ -27,7 +27,7 @@ const Home = () => {
         .filter(Boolean)
         .map(item => ({
             ...item,
-            image: `/public/${item.name}.png` // Assuming images are stored in public folder
+            image: `/public/${item.image}.png` // Assuming images are stored in public folder
         }));
     return (
         <>

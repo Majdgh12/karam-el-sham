@@ -23,7 +23,7 @@ const Menu = () => {
         ...menu.boxes_and_grill
     ].map(item => ({
         ...item,
-        image: `/public/${item.name}.png` // Assuming images are stored in public folder
+        image: `/public/${item.image}.png` // Assuming images are stored in public folder
     }));
 
     // filter logic
