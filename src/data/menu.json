@@ -4,43 +4,43 @@
       "name": "تكيه الابطال",
       "price": 700,
       "category": "الصواني",
-      "image": "/تكيه الابطال.png"
+      "image": "/public/takeyet-al-abtal.png"
     },
     {
       "name": "فرخه بروستد",
       "price": 390,
       "category": "البروستد",
-      "image": "/فرخه بروستد.png"
+      "image": "/public/farkha-broasted.png"
     },
     {
       "name": "تنين سورى فراخ",
       "price": 180,
       "category": "سندوتشات",
-      "image": "/تنين سورى فراخ.png"
+      "image": "/public/tanin-souri-farakh.png"
     },
     {
       "name": "بوكس الكرم لحمه",
       "price": 560,
       "category": "بوكسات ومشاوي",
-      "image": "/بوكس الكرم لحمه.png"
+      "image": "/public/lahmeh.png"
     },
     {
       "name": "صينية الحريفة",
       "price": 430,
       "category": "الصواني",
-      "image": "/صينية الحريفة.png"
+      "image": "/public/siniyet-al-harifa.png"
     },
     {
       "name": "سوبريم التنين كرسبى",
       "price": 220,
       "category": "سندوتشات",
-      "image": "/سوبريم التنين كرسبى.png"
+      "image": "/public/supreme-al-tanin.png"
     },
     {
       "name": "ابن المعلم ميكس شاورما سوري",
       "price": 160,
       "category": "بوكسات ومشاوي",
-      "image": "/ابن المعلم ميكس شاورما سوري.png"
+      "image": "/public/ibn-almoallem-mix-shawarma-souri.png"
     }
   ],
   "trays": [
@@ -297,7 +297,7 @@
     {
       "name": "مشكل كباب وكفته كيلو",
       "price": 800,
-      "image": "/مشكل كباب وكفته كيلو.png"
+      "image": "/public/mishkal-kebab-kofte-kilo.png"
     },
     {
       "name": "مشكل كباب وكفته نص",
